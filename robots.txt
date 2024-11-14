@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://gutterexperts.squeakyguttercleaners.xyz/sitemap_index.xml
